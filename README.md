@@ -1,4 +1,4 @@
-### DataPromptAI
+# DataPromptAI
 DataPromptAI is a Python package designed to streamline data analysis using the power of AI. With DataPromptAI, you can easily load multiple datasets from a local path or URL and interact with them using natural language prompts. The package leverages the OpenAI API to generate Python code snippets based on your input, enabling you to perform complex data operations with minimal effort.
 
 ## Key Features
