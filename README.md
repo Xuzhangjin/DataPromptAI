@@ -13,6 +13,6 @@ DataPromptAI is a Python package that integrates OpenAI's language models with P
 To install the package, clone the repository and use pip:
 
 ```bash
-git clone https://github.com/yourusername/DataPromptAI.git
+git clone https://github.com/Xuzhangjin/DataPromptAI.git
 cd DataPromptAI
 pip install .
