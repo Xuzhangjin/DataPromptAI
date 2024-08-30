@@ -8,6 +8,11 @@ Interactive Execution: Review the generated code and choose whether to execute i
 AI-Powered: Built on top of OpenAI's language models, DataPromptAI brings the power of LLMs to your data analysis workflow.
 DataFrame Support: Tailored for operations on pandas DataFrames, making it ideal for data science tasks.
 
+## Data Privacy
+DataPromptAI is designed with user privacy in mind. The package ensures that your data remains local and is never uploaded to ChatGPT's servers. All operations, including data processing and prompt-based code generation, are performed on your local machine. This approach safeguards your sensitive information and complies with data privacy regulations, making DataPromptAI a secure choice for working with your data.
+
+
+
 ## Installation
 
 To install the package, clone the repository and use pip:
